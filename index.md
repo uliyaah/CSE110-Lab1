@@ -2,8 +2,12 @@
 
 
 # First CSE 110 Lab!
+## A little about me
+As of completing this lab, I am a third-year computer science major with a minor in sociology and first year transfer from NorCal. A large reason I chose CS as opposed to other paths was it's accessibility and low-cost when it comes to creating new and useful products. 
 
-## _Here is a cat in overalls_
+Outside of the academic and CS sphere, I'm interested in most activities that involve creation, such as sewing, knitting, and pottery. 
+
+## _Anyways... here is a cat in overalls_
 ![cat in overalls](https://i.pinimg.com/originals/07/17/38/07173844ff7d628ed48a6c79430729bc.jpg)
 
 > If the cat could speak he would likely express his displeasure
@@ -38,4 +42,3 @@ Guess where this [link](catBetweenDisks.jpeg) goes:
 - [X] Relative links
 - [X] Ordered and Unordered Lists
 - [X] Task lists
-- [ ] Submit Lab
